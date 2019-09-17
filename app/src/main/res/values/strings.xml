@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">issaApp</string>
+
+    <string-array name="issa">
+        <item>issa jaber</item>
+    </string-array>
+</resources>
